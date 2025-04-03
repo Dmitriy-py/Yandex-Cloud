@@ -13,6 +13,11 @@
 
 ![Снимок экрана (680)](https://github.com/user-attachments/assets/3287f4df-303a-461f-8039-12a94a4b5890)
 
+
+## Задание 2
+
+С помощью ansible подключиться к web-a и web-b , установить на них nginx.(написать нужный ansible playbook)
+
 ![Снимок экрана (658)](https://github.com/user-attachments/assets/d84a82a9-a17a-4281-8fbc-f3b3be6b7d24)
 
 ![Снимок экрана (659)](https://github.com/user-attachments/assets/31b883a9-b626-43ae-9541-1d7a48262b04)
