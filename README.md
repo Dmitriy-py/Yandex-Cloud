@@ -1,2 +1,2 @@
-# Yandex-Cloud
-Yandex Cloud
+# Домашнее задание к занятию «Подъём инфраструктуры в Yandex Cloud»
+## Задание 1
